@@ -1,6 +1,6 @@
 # BrigadaBinaria-3er-semestre
 <div align="center">
-<h1 align="left">‎ ‎ ‎     ‎ ‎ ‎ ‎  BRIGADA BINARIA     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎     INTEGRANTES      </h1>
+<h1 align="left">‎ ‎ ‎     ‎ ‎ ‎ ‎  BRIGADA BINARIA     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎     INTEGRANTES      </h1>
 <img align= "left" src="https://th.bing.com/th/id/OIG4.2AhDxfW2S9kcW5Kr0_MG?pid=ImgGn" width=300 align="center">
  ‎ 
 <h3>ANGELINA PIZZOLATTO</h3>
