@@ -1,30 +1,34 @@
 # BrigadaBinaria-3er-semestre
-<div>
-<img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="Python" alt="Python" width="50" height="50"/>&nbsp;
+<div align="center">
+<h1 align="left">‎ ‎ ‎     ‎ ‎ ‎ ‎  BRIGADA BINARIA     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎     INTEGRANTES      </h1>
+<img align= "left" src="https://th.bing.com/th/id/OIG4.2AhDxfW2S9kcW5Kr0_MG?pid=ImgGn" width=300 align="center">
+ ‎ 
+<h3>ANGELINA PIZZOLATTO</h3>
+<h3>GIANELLA NAHUEL</h3>
+<h3>SANTIAGO CASTRO</h3>
+<h3>SEBASTIAN BETANCURTH</h3>
+ ‎ 
+ ‎ 
 </div>
-<div>
- <h1 align="left"> INTEGRANTES </h1>
-- Angelina Pizzolato
-- Gianella Nahuel
-- Santiago Castro
-- Sebastián Betancurth
+<br>
+<div align= "center">
+‎ 
+   <h2 align="center"> DIVISIÓN MÉTODO SCRUM </h2>
+  
+ SEMANA 1 -> Angelina Pizzolato
+  
+ SEMANA 2 -> Santiago Castro
+  
+ SEMANA 3 -> Gianella Nahuel
+  
+ SEMANA 4 -> Sebastián Betancurth
 </div>
-<div>
-   <h2 align="left"> DIVISIÓN MÉTODO SCRUM </h2>
-  
-- SEMANA 1 -> Angelina Pizzolato
-  
-- SEMANA 2 -> Santiago Castro
-  
-- SEMANA 3 -> Gianella Nahuel
-  
-- SEMANA 4 -> Sebastián Betancurth
-</div>
-<div align="left"> 
-    <h3>🔨 LENGUAJES UTILIZADOS</h3>
+
+<div align="center"> 
+    <h2> LENGUAJES UTILIZADOS</h2>
     <div>
-    <img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" tittle="Javascript" alt="Javascript" width="50" height="50"/>&nbsp;
-    <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="Python" alt="Python" width="50" height="50"/>&nbsp;
-    <img src ="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" tittle="Java" alt="Java" width="50" height="50"/>&nbsp;
+    <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="Python" alt="Python" width="80" height="80"/>&nbsp;
+    <img src ="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" tittle="Java" alt="Java" width="80" height="80"/>&nbsp;
+    <img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" tittle="Javascript" alt="Javascript" width="80" height="80"/>&nbsp;
     </div>
 </div>
