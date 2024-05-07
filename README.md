@@ -15,11 +15,11 @@
 ‎ 
    <h2 align="center"> DIVISIÓN MÉTODO SCRUM </h2>
   
- SEMANA 1 -> Sebastián Betancurth
+ SEMANA 1 -> Santiago Castro
   
  SEMANA 2 -> Angelina Pizzolato
   
- SEMANA 3 -> Santiago Castro
+ SEMANA 3 -> Sebastián Betancurth
   
  SEMANA 4 -> Gianella Nahuel
 </div>
