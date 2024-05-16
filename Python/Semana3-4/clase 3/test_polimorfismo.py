@@ -3,7 +3,6 @@ from gerente import gerente
 
 
 def imprimir_detalles(objeto):
-    # print(objeto)
     print(type(objeto))
     print(objeto.mostrar_detalles())
     if isinstance(objeto, Gerente):
