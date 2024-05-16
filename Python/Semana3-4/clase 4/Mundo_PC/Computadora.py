@@ -24,14 +24,14 @@ class Computadora:
         '''
 
 if __name__ == '__main__':
-    teclado1 = Teclado('HP', 'USB')
-    monitor1 = Monitor('HP', '15 Pulgadas')
-    raton1 = Raton('HP', 'USB')
-    computadora1 = Computadora ('HP', monitor1, teclado1, raton1)
+    teclado1 = Teclado('TIME', 'USB')
+    monitor1 = Monitor('BANGHO', '13 Pulgadas')
+    raton1 = Raton('GENIUS', 'USB')
+    computadora1 = Computadora ('LENOVO', monitor1, teclado1, raton1)
     print(computadora1)
 
-    teclado2 = Teclado('Acer', 'Bluetooth')
-    monitor2 = Monitor('Acer', '27 Pulgadas')
-    raton2 = Raton('Acer', 'Bluetooth')
+    teclado2 = Teclado('HP', 'Bluetooth')
+    monitor2 = Monitor('ACER', '25 Pulgadas')
+    raton2 = Raton('TIME', 'Bluetooth')
     computadora2 = Computadora ('Acer', monitor2, teclado2, raton2)
     print(computadora2)
