@@ -1,4 +1,4 @@
-from NumerosIgualesExcepcion import NumerosIgualesExcepcion
+from Numeros_Iguales_Excepcion import NumerosIgualesExcepcion
 
 resultado = None
 
