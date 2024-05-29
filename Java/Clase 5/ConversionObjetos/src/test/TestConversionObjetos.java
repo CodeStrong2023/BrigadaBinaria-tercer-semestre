@@ -1,5 +1,5 @@
 
-package Test;
+package test;
 import domain.*;
 public class TestConversionObjetos {
       

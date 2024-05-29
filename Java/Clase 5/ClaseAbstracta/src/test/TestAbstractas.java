@@ -1,4 +1,4 @@
-package Test;
+package test;
 import domain.FiguraGeometrica;
 import domain.Rectangulo;
 
