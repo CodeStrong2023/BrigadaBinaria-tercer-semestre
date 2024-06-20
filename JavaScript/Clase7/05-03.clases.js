@@ -109,5 +109,9 @@ let persona4 = new Persona("Franco", "Diaz");
 console.log(persona4.toString());
 console.log(Persona.contadorPersonas);
 
-let persona5 = new Persona("Liliana", "Paz");
-console.log(persona5.toString());
+let pe🟠Java: Clase 8 (EXCEPCIONES EN JAVA)
+-Introducción y pruebas del JavaBeans .
+-Comenzamos con Excepciones.
+-Crear una propia excepción .
+-Realizar pruebas con RuntimeException.
+-Agregar el finally y catch.
