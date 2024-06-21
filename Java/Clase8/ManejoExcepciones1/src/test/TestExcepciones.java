@@ -17,9 +17,9 @@ public class TestExcepciones {
             System.out.println(e.getMessage());
 
         } catch (Exception e) {
-            // El catch sirve para atrapar el error
+
             System.out.println("Ocurrio un error");
-            e.printStackTrace(System.out); // Se conoce como la pila de excepciones
+            e.printStackTrace(System.out); 
         } finally {
             System.out.println("Se realizo la division");
         }
