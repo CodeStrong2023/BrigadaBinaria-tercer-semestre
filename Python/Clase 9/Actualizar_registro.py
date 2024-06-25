@@ -11,8 +11,8 @@ try:
     with conexion:
         with conexion.cursor() as cursor:
         sentencia = "UPDATE persona SET nombre=%s, apellido=%s, email=%s WHERE id_persona=%s"
-        valores = ("Juan", "Roca", "JuanR@mail.com", 1)
-        cursor.execute(sentencia, valores)#De esta manera ejecutamos la sentencia
+        valores = ("Sebas", "Rodriguez", "sebasR@mail.com", 1)
+        cursor.execute(sentencia, valores) #De esta manera ejecutamos la sentencia
         registros_actualizados = cursor.rowcount
         print(f"Los registros actualizados son: {registros_actualizados}")
         
